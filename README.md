@@ -6,3 +6,6 @@ It analyses the data provided and prints a graph for the number of words per com
 It also prints word clouds according to each Personality Type.
 
 Hope you like my project!
+
+# Output Screenshots
+
